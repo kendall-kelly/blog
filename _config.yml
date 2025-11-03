@@ -31,7 +31,7 @@ github_username:  kendall-kelly
 linkedin_username: kendall-kelly-6993ab2b2
 
 # Build settings
-theme: midnight
+theme: minima
 plugins:
   - jekyll-feed
 
