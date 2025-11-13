@@ -11,7 +11,7 @@ This blog chronicles my hands-on learning experience as I build a full-stack web
 The blog documents my work with:
 
 - **Frontend:** React
-- **Backend:** Go
+- **[Backend](https://github.com/kendall-kelly/kendalls-nails-api):** Go
 - **Database:** PostgreSQL
 - **AI Integration:** OpenAI API
 - **MCP:** FastMCP
