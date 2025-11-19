@@ -9,6 +9,10 @@ categories: learning development tools
 
 When getting started with my multi-tier application, one of the things my mentor and I discussed was the importance of setting up proper version control. Honestly, I thought I knew Git well enough from school projects, but using it for a real application has been a different experience entirely. Git allows me to try new things without worrying about breaking what already works. If something goes wrong, I can always roll back to a previous state. It's like having a safety net that lets me experiment and learn without the fear of permanently messing things up.
 
+## Protection Against Losing Your Work
+
+Another huge benefit of Git is that it protects you from losing your code. We've all heard horror stories about someone's computer crashing and losing weeks of work, or accidentally deleting files with no way to recover them. With Git, especially when pushing to remote repositories like GitHub, your code exists in multiple places. Even if my laptop died tomorrow, all my work is safely stored remotely. This peace of mind is so important when you're putting hours into building something. Beyond hardware failures, Git also protects against those moments where you accidentally delete something important or make changes you can't easily undo manually. Knowing that my entire project history is backed up means I can focus on building rather than worrying about losing everything.
+
 ## Keeping Everything Organized
 
 One thing I've really come to appreciate is how Git helps me stay organized. When you're working across multiple layers of an application—frontend, backend, database—it's easy to lose track of what you've changed and why. Git forces me to be intentional about my work. I create feature branches for new functionality, write clear commit messages explaining my changes, and keep my main branch clean and stable. Looking back through my commit history, it's great to be able to see exactly how the project has evolved over time and understand which decisions led to certain outcomes.
